@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chekck_item">Check-item</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="radio_title">[Select Color]</string>
+    <string name="name">Enter name</string>
+    <string name="textview_title">[ SETTING ]</string>
+    <string name="textview_user">● USER</string>
+    <string name="textview_thema">● THEMA</string>
+    <string name="textview_id">ID</string>
+    <string name="edittext_id">Enter your ID</string>
+    <string name="btn_modify">MODIFY</string>
+    <string name="radiobtn_white">White</string>
+    <string name="radiobtn_dark">Dark</string>
+    <string name="radiobtn_blue">Blue</string>
+    <string name="checkbox_save">Auto Save</string>
+    <string name="checkbox_wifi">Auto Connect Wifi</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_cancel">CANCEL</string>
+</resources>
